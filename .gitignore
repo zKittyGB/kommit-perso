@@ -1,0 +1,10 @@
+# Repos de l'équipe, versionnés à part
+kommit-backend/
+kommit-frontend/
+
+# Réglages Claude Code locaux à la machine
+.claude/settings.local.json
+
+# Système
+.DS_Store
+Thumbs.db

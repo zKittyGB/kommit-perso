@@ -1,0 +1,12 @@
+{
+  "git.ignoredRepositories": [
+    "kommit-backend",
+    "kommit-frontend"
+  ],
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#7B1FA2",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveBackground": "#4A148C",
+    "titleBar.inactiveForeground": "#FFFFFF"
+  }
+}
